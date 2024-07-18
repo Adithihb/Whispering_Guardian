@@ -1,2 +1,4 @@
 Malware Detection Report:
-No malware found.
+File: C:/Users/adith/Downloads/Networking&Cybersecurity_Stories/Networking&Cybersecurity_Stories\test_file.txt.txt 
+matched with rule: MalwareExample
+Malware Found
