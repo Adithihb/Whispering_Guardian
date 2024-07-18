@@ -30,7 +30,7 @@ class MalwareScannerApp(QWidget):
             with open("report.txt", "r") as report_file:
                 self.report_text.setText(report_file.read())
 
-if __name__ == '__main__':
+if __name__ == "__main__":
     app = QApplication(sys.argv)
     ex = MalwareScannerApp()
     sys.exit(app.exec_())
